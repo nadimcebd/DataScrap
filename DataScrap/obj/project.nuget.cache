@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6kgkm2C5nOSNI+Z0+7JRz6zzaq9crMINUjgSjVYBjLXq1gC5daWD3wtGNMRWHAmkocDzjRcBnnD1JMeLuRKb2Q==",
+  "success": true,
+  "projectFilePath": "E:\\Nazmul\\Project\\DataScrap\\DataScrap\\DataScrap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
