@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataScrap")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69d077dc823beb4b0a42e5bf22b64c48c2ab451f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataScrap")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataScrap")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

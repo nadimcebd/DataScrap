@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Nazmul\\Project\\DataScrap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D7300DE-5120-44C9-9E17-8CF2288CE28F}|DataScrap\\DataScrap.csproj|e:\\nazmul\\project\\datascrap\\datascrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D7300DE-5120-44C9-9E17-8CF2288CE28F}|DataScrap\\DataScrap.csproj|solutionrelative:datascrap\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Nazmul\\Project\\DataScrap\\DataScrap\\Program.cs",
+              "RelativeDocumentMoniker": "DataScrap\\Program.cs",
+              "ToolTip": "E:\\Nazmul\\Project\\DataScrap\\DataScrap\\Program.cs",
+              "RelativeToolTip": "DataScrap\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T16:17:46.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -19,3 +19,4 @@ E:\Nazmul\Project\DataScrap\DataScrap\bin\Debug\net8.0\Newtonsoft.Json.dll
 E:\Nazmul\Project\DataScrap\DataScrap\bin\Debug\net8.0\WebDriver.dll
 E:\Nazmul\Project\DataScrap\DataScrap\obj\Debug\net8.0\DataScrap.csproj.AssemblyReference.cache
 E:\Nazmul\Project\DataScrap\DataScrap\obj\Debug\net8.0\DataScrap.csproj.Up2Date
+E:\Nazmul\Project\DataScrap\DataScrap\obj\Debug\net8.0\DataScrap.sourcelink.json
